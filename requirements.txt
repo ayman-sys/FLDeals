@@ -32,3 +32,4 @@ tensorflow @ https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-
 termcolor==1.1.0
 tqdm==4.56.1
 Werkzeug==1.0.1
+nltk
