@@ -140,6 +140,7 @@ LOGIN_REDIRECT_URL = 'home'
 STATICFILES_DIRS = (
     os.path.join(BASE_DIR, 'static'),
 )
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
