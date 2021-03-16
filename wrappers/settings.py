@@ -26,7 +26,7 @@ SECRET_KEY = '$a^w$eh7g*&@dt%hfv7qu*a87u(b3$(5ng(f@bj@%9a*2_z+te'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1','']
+ALLOWED_HOSTS = ['127.0.0.1','fldeals.herokuapp.com']
 
 
 # Application definition
