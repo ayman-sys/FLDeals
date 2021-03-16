@@ -1,1 +1,1 @@
-web: gunicorn Wrapper-India-Online-master.wsgi --log-file -
+web: gunicorn fldeals.wsgi --log-file -
